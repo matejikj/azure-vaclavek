@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LAB3": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7033",
+      "launchBrowser": false
+    }
+  }
+}
